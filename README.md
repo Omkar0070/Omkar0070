@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/omkarkadam8976" target="blank"><img src="https://img.shields.io/twitter/follow/omkarkadam8976?logo=twitter&style=for-the-badge" alt="omkarkadam8976" /></a> </p>
 
-#- 🌱 I’m currently learning **devops tools**
+ 
 
 - 📝 I regularly write articles on [https://omkarkadam007.hashnode.dev/](https://omkarkadam007.hashnode.dev/)
 
